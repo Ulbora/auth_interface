@@ -1,4 +1,4 @@
 
 
-Authorization Contract for authorizaton modules used on GoAuth2
+Authentication Contract for authentication modules used on GoAuth2
 ==============
